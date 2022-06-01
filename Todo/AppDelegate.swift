@@ -5,6 +5,8 @@
 //  Created by Anton Vikhlyaev on 23.05.2022.
 //
 
+// test
+
 import UIKit
 
 @main
